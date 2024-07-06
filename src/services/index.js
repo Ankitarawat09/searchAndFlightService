@@ -1,3 +1,3 @@
 module.exports = {
-  CityService: requestAnimationFrame("./cityService"),
+  CityService: require("./cityService"),
 };
